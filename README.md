@@ -3,15 +3,16 @@
 A churn-prevention business proposal for **Company A** (an anonymous wireless operator). It is built on EDA, a
 LightGBM churn model and a quantified retention-campaign simulation.
 
-| Deliverable | File |
+**Ready to upload (Omnicampus account `RKRohan4231`):** `submission/RKRohan4231.pdf` (slides),
+`submission/RKRohan4231.ipynb` (notebook), `submission/references.txt` (paste into the Reference URL field).
+
+| Deliverable | Source file |
 |---|---|
 | Slides (PDF to submit, ≤15 pages) | `slides/Renew_and_Upgrade_Proposal.pdf` |
 | Slides (editable) | `slides/Renew_and_Upgrade_Proposal.pptx` |
 | Notebook (reproducible analysis) | `analysis/churn_analysis.ipynb` (source: `analysis/churn_analysis.py`) |
 | List of references (for the Omnicampus field) | `references.txt` |
 
-> Before submitting, rename the files to your Omnicampus account name (`<name>.pdf`, `<name>.ipynb`) and paste your
-> AI-chat link into reference [9].
 
 ## Headline results
 - **EDA:** churn peaks at **64% in months 11–12** of service (renewal cliff) and rises from **42% to 58%** as the handset ages.

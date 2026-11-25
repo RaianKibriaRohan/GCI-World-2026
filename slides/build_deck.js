@@ -417,7 +417,7 @@ function takeaway(slide, text, y = 6.2, h = 0.62) {
     "[6] Lundberg, S. M. & Lee, S.-I. (2017). A Unified Approach to Interpreting Model Predictions (SHAP). NeurIPS 30.",
     "[7] Pedregosa, F. et al. (2011). Scikit-learn: Machine Learning in Python. JMLR 12, 2825–2830.",
     "[8] Matsuo-Iwasawa Lab, Univ. of Tokyo (2026). GCI World Final Assignment materials: Company A dataset, tutorial notebook, Practical Guide.",
-    "[9] Anthropic (2026). Claude: AI assistant used for coding support and slide drafting (chat link in the submitted reference list).",
+    "[9] Anthropic (2026). Claude Code (desktop app): AI assistant used for code, analysis and slide drafting. Transcript available on request.",
   ];
   txt(s, refs.map((r, i) => ({ text: r, options: { breakLine: i < refs.length - 1 } })), { x: 0.5, y: 1.5, w: 12.3, h: 5.3, fontSize: 13, paraSpaceAfter: 9 });
 

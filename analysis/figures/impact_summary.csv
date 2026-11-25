@@ -1,0 +1,16 @@
+,0
+flagged,20000.0
+precision,0.736
+arpu,43.4875
+value_per_save,521.8499999999999
+cost_per,35.0
+base_reached,14720.0
+base_saved,2944.0
+base_gain,1536326.3999999997
+base_cost,700000.0
+base_net,836326.3999999997
+base_roi,1.1947519999999996
+rand_net,334515.4399999998
+breakeven,0.09112646895867964
+churn_before,0.49562
+churn_after,0.46618

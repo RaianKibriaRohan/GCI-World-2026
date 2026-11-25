@@ -1,0 +1,17 @@
+# Course-provided materials and dataset (not redistributable; place locally to reproduce)
+Final Assignment/
+*.csv
+!analysis/figures/*.csv
+
+# Build / tooling
+slides/node_modules/
+slides/package-lock.json
+__pycache__/
+.ipynb_checkpoints/
+*.tmp
+~$*
+
+# QA renders
+slides/render/
+slides/sheet*.png
+slides/*.pptx.tmp
